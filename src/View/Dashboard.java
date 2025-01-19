@@ -7,7 +7,6 @@ package View;
 import javax.swing.JOptionPane;
 import Controller.StudentController1;
 import Model.Student;
-import com.mysql.cj.xdevapi.Table;
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;
 import java.awt.event.ActionEvent;
